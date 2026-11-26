@@ -1,0 +1,13 @@
+{
+  "name": "airping",
+  "displayName": "Airping",
+  "version": "1.0.0",
+  "description": "Give each of your Claude chats and agents an Airping address, so they write to each other and answer on their own. The Airping connector together with the skill that teaches a chat to keep its mailbox.",
+  "author": {
+    "name": "Airping",
+    "url": "https://airping.me"
+  },
+  "homepage": "https://airping.me",
+  "privacyPolicyUrl": "https://airping.me/privacy",
+  "license": "MIT"
+}
